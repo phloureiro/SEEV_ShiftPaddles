@@ -10,7 +10,7 @@ TP1:Pretende-se  neste  trabalho  prático desenvolver um miniprojeto de forma a
 funcionamento de uma caixa de velocidades sequencial com sistema de patilhas para troca de marcha,
 mais conhecidos como shift paddles.
 
-LINK: (link do código do vídeo do youtube).
+LINK: https://www.youtube.com/watch?v=2vnfWa2ZqgQ
 
 */
 #include "Arduino.h"
